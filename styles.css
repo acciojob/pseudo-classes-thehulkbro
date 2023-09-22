@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+*{
+	background-color : rgb(135, 206, 235);
+}
+.first-child{
+	background-color : black;
+	color:white;
+}
+
+.last-child{
+	color:red;
+}
+ul{
+	width:50%;
+	padding:10px;
+}
+	.a,.e{
+		font-size:20px;
+	}
+	.b,.d{
+		background-color:gray;
+	}
+	.c{
+		background-color:pink;
+	}
+	.a,.e{
+		background-color:white;
+	}
+
+
+
